@@ -6,4 +6,4 @@ RHEL/CentOS/Rocky: <code>yum install mediainfo</code>
 Debian/Ubuntu: <code>apt-get install mediainfo</code>
 
 Usage: <code>get_forced_sub.php <i>filename</i></code><br>
-Return: Track number of forced subtitle track or zero (0) it no track found
+Return: Track number of forced subtitle track or zero (0) if no track found
